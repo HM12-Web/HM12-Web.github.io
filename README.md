@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Chill Guy </title>
 <body>
 
 <h1>'Chill Guy' 란 무엇인가?</h1>
