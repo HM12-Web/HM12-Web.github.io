@@ -12,5 +12,6 @@
 <li>분위기에 맞는 음악 선정.</li>
 <li>바쁜 현대인들이 추구하는 느긋한 분위기.</li>
 </ul>
+<img src="C:\Users\U308-37\Desktop" width="763" height="429">
 </body>
 </html>
