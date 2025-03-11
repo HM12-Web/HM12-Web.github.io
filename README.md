@@ -1,13 +1,13 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Chill Guy</title>
+</head>
 <body>
-
 <h1>'Chill Guy' 란 무엇인가?</h1>
 <br>
-<IMG src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"   width=“500”  height=”500”  
-                                                alt=”chill guy”   border=“0” >
+<IMG src="https://upload.wikimedia.org/wikipedia/en/c/c7/Chill_guy_original_artwork.jpg"   
+     width="500" height="500"  
+     alt="chill guy" border="0">
                                                 <br><CITE>Chill Guy를 상징하는 이미지.</CITE>
                                                 <br><br>
                   <p>Chill은 한기, 냉기라는 뜻 외에도 형용사 속어로 ‘느긋한‘을 뜻하며, Chill Guy를 직역한다면 느긋한(Chill) 분위기의 남자(Guy) 정도로 해석할 수 있다. 밈(meme)으로 사용되는 현재에 와서는 '어떤 상황이 생기더라도 이를 느긋하고 긍정적으로 받아들이는 남자' 정도의 의미를 지니고 있다. </p><br>
