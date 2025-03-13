@@ -22,6 +22,9 @@
 <br>
 <table>
   <tr>
+       <td style="background-color: #000000;"> 요인</td>
+       <td style="background-color: #000000;"> 상세</td>
+  <tr>
     <td>적절한 캐릭터 디자인.</td>
     <td>정감가면서도 간단한 캐릭터는 밈화에 적합하다.</td>
   </tr>
