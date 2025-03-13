@@ -20,7 +20,7 @@
 </ul>
 <br><p>위와 같은 요인들로 Chill Guy는 20년도 중반의 SNS에서 핫한 반응을 이끌어내고 있는 밈으로 자리를 잡았다. 각 요인들을 세부적으로 살펴보자면,</p>
 <br>
-<table border="1">
+<table>
   <tr style="background-color: black; color: white;">
        <td>요인</td>
        <td>상세</td>
