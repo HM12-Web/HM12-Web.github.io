@@ -20,10 +20,11 @@
 </ul>
 <br><p>위와 같은 요인들로 Chill Guy는 20년도 중반의 SNS에서 핫한 반응을 이끌어내고 있는 밈으로 자리를 잡았다. 각 요인들을 세부적으로 살펴보자면,</p>
 <br>
-<table>
-  <tr>
-       <td style="background-color: #000000;"> 요인</td>
-       <td style="background-color: #000000;"> 상세</td>
+<table border="1">
+  <tr style="background-color: black; color: white;">
+       <td>요인</td>
+       <td>상세</td>
+  </tr>
   <tr>
     <td>적절한 캐릭터 디자인.</td>
     <td>정감가면서도 간단한 캐릭터는 밈화에 적합하다.</td>
@@ -39,6 +40,9 @@
 </table>
 <br>
 <p>다음과 같이 간단하게 설명할 수 있다.</p>
+
+</body>
+</html>
 
 </body>
 </html>
