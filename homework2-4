@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stanford Performing Arts</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { font-size: 36px; font-weight: bold; }
+        .sub-header { font-size: 18px; font-weight: bold; }
+        .container { display: flex; justify-content: space-between; margin-top: 20px; }
+        .left { width: 60%; display: flex; }
+        .text { flex: 1; padding-left: 20px; }
+        .right { width: 35%; border-left: 2px solid black; padding-left: 20px; }
+        .image { width: 300px; height: auto; }
+        .calendar-item { font-style: italic; border-bottom: 1px solid black; padding: 5px 0; }
+        .edition { font-size: 14px; float: right; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="header">Chill Guy</div>
+    <div class="edition">Autumn 2025 Edition</div>
+    <div class="container">
+        <div class="left">
+            <img src="https://camo.githubusercontent.com/fa187c78073b33b6973e8a2cc8518af970578ce4299f7f9eb62aca7dc2dda405/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f632f63372f4368696c6c5f6775795f6f726967696e616c5f617274776f726b2e6a7067" alt="Concert Hall" class="image">
+            <div class="text">
+                <div class="sub-header">Bing Concert Hall</div>
+                <p>The Bing Concert Hall at Stanford will play a vital role on campus and in the local community, showcasing the world's finest performers.</p>
+                <p>The hall is scheduled to open in 2013 with 844 seats in an intimate vineyard-style configuration.</p>
+            </div>
+        </div>
+        <div class="right">
+            <div class="sub-header">Calendar</div>
+            <div class="calendar-item">Harmony for Humanity: Daniel Pearl World Music Concert</div>
+            <div class="calendar-item">Sundays with the St. Lawrence String Quartet</div>
+            <div class="calendar-item">Merce Cunningham Dance Company</div>
+            <div class="calendar-item">Juilliard String Quartet</div>
+        </div>
+    </div>
+</body>
+</html>
