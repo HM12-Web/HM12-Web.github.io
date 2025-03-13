@@ -41,6 +41,9 @@
 <br>
 <p>다음과 같이 간단하게 설명할 수 있다.</p>
 
+<A href = "HM12-Web.github.io
+/homework2-1" target = "blank" > 글 내용 </homework2-1>
+
 </body>
 </html>
 
