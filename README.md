@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Chill Guy</title>
 </head>
 <body>
 <h1>'Chill Guy' 란 무엇인가?</h1>
@@ -42,7 +41,7 @@
 <p>다음과 같이 간단하게 설명할 수 있다.</p>
 
 <A href = "HM12-Web.github.io
-/homework2-1" target = "blank" > 글 내용 </homework2-1>
+/homework2-1" target = "blank" > 응애 </A>
 
 </body>
 </html>
